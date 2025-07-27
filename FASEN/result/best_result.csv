@@ -1,0 +1,2 @@
+Dataset,Best_k,Best_wavelet_degree,AUC,AUPR,f1,lr
+arrhythmia.mat,15,2,0.7763385146804835,0.5380335374686518,0.5303030303030303,0.1
